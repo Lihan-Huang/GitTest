@@ -3,3 +3,8 @@ git add README.md
 git commit -m "first commit"
 git remote add origin git@github.com:Lihan-Huang/GitTest.git
 git push -u origin master
+
+git clone
+
+git push
+git merge
